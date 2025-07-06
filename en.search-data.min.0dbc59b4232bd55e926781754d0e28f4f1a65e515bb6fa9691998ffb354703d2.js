@@ -246,7 +246,8 @@ Nginx
 CentOS搭建Shadowsocks服务端 常用命令 Prometheus docker
 常用命令 微服务
 consul 领域驱动设计
-示例 domain PO-DO-VO-DTO 步骤 目标/规划
+示例 domain PO-DO-VO-DTO 步骤 Web3.0
+1.什么是Web3.0 目标/规划
 目标
 规划
 `}),e.add({id:6,href:"/wiki/DDD/domain/",title:"Domain",section:"领域驱动设计",content:` domain 实体 （model） a. 唯一要素（必须有唯一标识）
@@ -392,7 +393,7 @@ lock = threading.Lock() with lock : #业务 pass with 语句会在这个代码�
 slave slaveof IP PORT masterauth ***
 `}),e.add({id:45,href:"/wiki/Target/program/",title:"Program",section:"规划",content:` 规划 # 规划分为两个个方面：工作、生活
 工作 # 1. 希望在目前的公司闲暇时刻学习更多地专业知识。 2. 当前在工作方面做得更多地是业务开发，那么希望多去深入的了解业务及市场需求，为以后的道路做铺垫。 3. 技术研发也是兴趣之一，喜欢钻研一些底层知识，希望自己能学习、储备更多地知识，形成自己的知识体系。 4. 工作中用到的一些知识点应该规划起来，形成一个自己的文档库方便查阅等。 生活 # 1. 每天健身。 2. 多去交一些同样领域的朋友及长辈。 3. 希望与家人或朋友每两周能出去旅游或游玩，扩展下视野，放松下自己，促进下感情。 4. 多练习英语文档阅读能力及口语能力。 `}),e.add({id:46,href:"/wiki/Target/target/",title:"Target",section:"规划",content:" 目标 # 英语阅读及口语能力（循序渐进） 希望在两年内能够熟悉及慢慢使用k8s 提升对docker的理解及应用 DDD的的架构、思想深入的了解（已经在使用中，学习中） 多了解底层的知识，早日进大厂。再没进入前，还是多学习业务方面的，去发现业务市场等。 "}),e.add({id:47,href:"/wiki/VUE/iView%E6%A1%88%E4%BE%8B/",title:"I View案例",section:"VUE",content:` 使用iView 开发的后台管理 # 链接
-`}),e.add({id:48,href:"/wiki/Web3/1.-%E4%BB%80%E4%B9%88%E6%98%AFweb3.0/",title:"1. 什么是web3.0",section:"airdb.dev",content:`Web3.0与Web2.0是互联网发展的不同阶段，其核心差异体现在技术架构、用户权利、价值分配和治理模式等方面。以下是两者的详细对比分析：
+`}),e.add({id:48,href:"/wiki/Web3/%E4%BB%80%E4%B9%88%E6%98%AFweb3/",title:"什么是web3",section:"Web3",content:`Web3.0与Web2.0是互联网发展的不同阶段，其核心差异体现在技术架构、用户权利、价值分配和治理模式等方面。以下是两者的详细对比分析：
 一、技术基础与架构 # Web2.0
 中心化架构：依赖服务器-客户端模式，数据存储在平台控制的中心化服务器中，用户通过浏览器访问服务。 技术核心：以AJAX、RSS、社交网络（如微博、抖音）为代表，强调用户生成内容（UGC）和交互体验，但平台掌握数据所有权和分发权。 Web3.0
 去中心化架构：基于区块链技术，数据分布式存储于多个节点，用户通过数字钱包直接管理数据，无需依赖中心化平台。 技术核心：集成区块链、智能合约、隐私计算、分布式存储等技术，支持用户自主控制数字身份和资产。例如，上海树图区块链研究院开发的Conflux OS操作系统，实现了用户对数据的完全掌控。 二、用户权利与数据控制 # Web2.0
