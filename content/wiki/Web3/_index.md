@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
 weight: 40
-title: VUE
+title: Web3
 ---
