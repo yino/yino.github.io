@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>airdb.dev on sun17 wiki</title><link>https://yino.github.io/wiki/</link><description>Recent content in airdb.dev on sun17 wiki</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://yino.github.io/wiki/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>airdb.dev on Yino wiki</title><link>https://yino.github.io/wiki/</link><description>Recent content in airdb.dev on Yino wiki</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://yino.github.io/wiki/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://yino.github.io/wiki/Web3/1.-%E4%BB%80%E4%B9%88%E6%98%AFweb3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yino.github.io/wiki/Web3/1.-%E4%BB%80%E4%B9%88%E6%98%AFweb3.0/</guid><description>Web3.0与Web2.0是互联网发展的不同阶段，其核心差异体现在技术架构、用户权利、价值分配和治理模式等方面。以下是两者的详细对比分析：
+一、技术基础与架构 # Web2.0
+中心化架构：依赖服务器-客户端模式，数据存储在平台控制的中心化服务器中，用户通过浏览器访问服务。 技术核心：以AJAX、RSS、社交网络（如微博、抖音）为代表，强调用户生成内容（UGC）和交互体验，但平台掌握数据所有权和分发权。 Web3.0
+去中心化架构：基于区块链技术，数据分布式存储于多个节点，用户通过数字钱包直接管理数据，无需依赖中心化平台。 技术核心：集成区块链、智能合约、隐私计算、分布式存储等技术，支持用户自主控制数字身份和资产。例如，上海树图区块链研究院开发的Conflux OS操作系统，实现了用户对数据的完全掌控。 二、用户权利与数据控制 # Web2.0
+被动参与：用户是内容消费者和部分创作者，但数据归属平台，平台可审查、修改或删除内容。 数据垄断：平台通过用户行为数据优化算法推荐，形成信息茧房，用户隐私易被泄露。 Web3.0
+主动掌控：用户拥有数字身份（如DID）、数据资产和创作收益，通过智能合约与协议交互，无需信任第三方。 隐私保护：区块链的加密技术（如零知识证明）和隐私计算（联邦学习）确保数据安全，用户可自主选择数据共享范围。 三、商业模式与价值分配 # Web2.0
+平台经济：平台通过广告、会员订阅等盈利，用户贡献内容但无法直接分享收益。例如，短视频平台的创作者需依赖平台分成机制。 Web3.0
+创作者经济：用户通过NFT、DeFi等工具直接获得价值回报。例如，数字艺术品创作者可将作品铸造成NFT并自主定价。 代币激励：区块链代币作为价值载体，用户参与社区治理、内容贡献等行为可获得代币奖励，形成去中心化自治组织（DAO）。 四、交互模式与功能特性 # Web2.0
+单向交互：用户通过预设功能使用服务（如点赞、评论），交互逻辑由平台控制。 Web3.0
+协议化与可组合性：功能通过开源协议实现，不同协议可叠加构建复杂系统。例如，哈希时间锁协议（HLTC）支持跨平台可信交易。 语义互联：通过语义网技术，机器可理解数据含义，实现跨平台精准搜索与信息整合。 五、治理模式 # Web2.0
+中心化治理：平台制定规则，用户需被动接受。例如，社交媒体可单方面封禁用户账号。 Web3.0
+去中心化治理：DAO模式通过智能合约实现社区投票决策，规则透明且不可篡改。例如，DAO组织通过代币持有量决定项目发展方向。 六、典型应用场景 # Web2.0代表：社交媒体（微信、抖音）、电商平台（淘宝）、在线办公（钉钉）。 Web3.0代表：去中心化金融（DeFi）、元宇宙（Decentraland）、链游（Axie Infinity）、非同质化代币（NFT）。 总结：核心差异对比表 # 维度 Web2.0 Web3.0 架构 中心化服务器 区块链分布式网络 数据所有权 平台控制 用户自主控制 价值分配 平台垄断收益 用户与贡献者共享收益 治理模式 平台单方面决策 社区DAO自治 交互逻辑 预设功能，被动接受 协议开放，用户自定义 未来挑战 # 尽管Web3.0在技术上具有革新性，但仍面临性能瓶颈（如区块链吞吐量）、监管合规性、用户教育等挑战。其发展需平衡去中心化与效率，同时探索与传统行业的融合路径。</description></item></channel></rss>
