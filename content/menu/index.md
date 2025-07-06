@@ -71,7 +71,7 @@ headless: false
     <br />
 
 - **Web3.0**
-  - [1.什么是web3.0]({{< relref "/wiki/Web3/什么是web3.0.md" >}})
+  - [1.什么是Web3.0]({{< relref "/wiki/Web3/什么是web3.md" >}})
     <br />
 
 - **目标/规划**
