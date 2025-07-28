@@ -72,6 +72,7 @@ headless: false
 
 - **Web3.0**
   - [1.什么是Web3.0]({{< relref "/wiki/Web3/什么是web3.md" >}})
+  - [2.初识智能合约]({{< relref "/wiki/Web3/初识智能合约.md" >}})
     <br />
 
 - **目标/规划**
